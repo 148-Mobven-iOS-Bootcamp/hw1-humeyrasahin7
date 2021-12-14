@@ -35,3 +35,6 @@ print("\(myNum) found")
 print("cherry-pick deneme \(myNum)")
 
 >>>>>>> 2a9f324 (cherry pick icin master update)
+
+
+//rebase 
