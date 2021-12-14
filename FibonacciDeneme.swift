@@ -22,3 +22,10 @@ public func fib() {
 while myNum <= 1000 {
     fib()
 }
+
+
+
+//masterda degisiklik cherrypick deneme
+
+print("cherry-pick deneme \(myNum)")
+
