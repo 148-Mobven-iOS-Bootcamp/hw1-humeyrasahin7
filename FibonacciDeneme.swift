@@ -23,6 +23,15 @@ while myNum <= 1000 {
     fib()
 }
 
+<<<<<<< HEAD
 //develop brach deneme
 
 print("\(myNum) found")
+=======
+
+
+//masterda degisiklik cherrypick deneme
+
+print("cherry-pick deneme \(myNum)")
+
+>>>>>>> 2a9f324 (cherry pick icin master update)
